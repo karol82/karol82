@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karol82
+- 👋 Hi, I’m Karol
 - 👀 I’m interested in hiking
 - 🌱 I’m currently learning Python
 
