@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karol
-- 👀 I’m interested in hiking
-- 🌱 I’m currently learning Python
+- 👀 
+- 🌱 🦁
 
 <!---
 karol82/karol82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
